@@ -93,7 +93,7 @@ btnhold.addEventListener('click', function(){
 
     //2.check player's score is >=100
     //finish the game
-    if(scores[activeplayer]>=10){
+    if(scores[activeplayer]>=100){
         playing=false;
         dice.classList.add('hidden');
         document.querySelector(`.player--${activeplayer}`).classList.add('player--winner');
