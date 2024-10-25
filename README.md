@@ -1,2 +1,5 @@
 # Javascript
- My JavaScript  LearningLearning 
+
+My JavaScript LearningLearning
+my new trial for git
+git 
